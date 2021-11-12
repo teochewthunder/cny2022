@@ -227,7 +227,7 @@ function cny(year)
 			face.style.borderRadius = "50%";
 			face.style.position = "relative";
 			face.style.backgroundColor = "rgba(255, 100, 0, 1)";
-			face.style.borderBottom = "5px solid white";
+			face.style.borderBottom = "5px solid rgba(255, 255, 255, 1)";
 			face.style.float = "right";
 			face.style.cursor = "pointer";
 
@@ -326,7 +326,7 @@ function cny(year)
 			snout.style.textAlign = "center";
 			snout.style.fontWeight = "bold";
 			snout.style.backgroundColor = "rgba(255, 100, 0, 1)";
-			snout.style.borderBottom = "5px solid white";
+			snout.style.borderBottom = "5px solid rgba(255, 255, 255, 1)";
 			snout.style.color = "rgba(0, 0, 0, 1)";	
 			snout.innerHTML = "Y";
 
