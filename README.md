@@ -1,5 +1,5 @@
 # The Lucky Number Generator (Revisited)
-This is a follow-up of Lucky Number Generator in the Year of the Pig. Our objective is to carry out some abstraction so that the existing code can be used for the Year of the Tiger (or any other year).
+This is a follow-up of [Lucky Number Generator](https://github.com/teochewthunder/cny-luckynumber-generator) in the Year of the Pig. Our objective is to carry out some abstraction so that the existing code can be used for the Year of the Tiger (or any other year).
 
 ## Changes
 
